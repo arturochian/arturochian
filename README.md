@@ -1,5 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Hola! Bienvenido a mi perfil.</h1>
 
+Hola soy Arturo Chian, peruano <img src="https://www.flaticon.com/premium-icon/icons/svg/3180/3180959.svg" width="13"/>,  amante de la Ciencia de datos, R y el opensource así como de las finanzas y la economía conductual.
+
+Cofundador de [Behavioral Economics & Data Sciente Team](http://besteamperu.org/).
+
 <!--
 **arturochian/arturochian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
