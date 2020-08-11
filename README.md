@@ -15,7 +15,7 @@ Pueden contactarse conmigo en:
    
 :writing_hand: Actualmente estoy redactando algunos libros opensource. Próximamente verán más detalles por aquí ❤️.
 
-
+Gracias por leer mi perfil. <h1><img src="https://emojis.slackmojis.com/emojis/images/1568064900/6383/meow-popcorn.gif?1568064900" width="30"/> 
 <!--
 **arturochian/arturochian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
