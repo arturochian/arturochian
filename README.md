@@ -2,7 +2,7 @@
 
 Hola soy Arturo Chian, peruano <img src="https://image.flaticon.com/icons/svg/2055/2055886.svg" width="13"/>,  amante de la Ciencia de datos, R y el opensource así como de las finanzas y la economía conductual.
 
-Cofundador de [Behavioral Economics & Data Sciente Team](http://besteamperu.org/).
+Cofundador de [Behavioral Economics & Data Sciente Team](http://besteamperu.org/) y [Circulo de Estudios Financieros y Mercado de Capitales](https://www.facebook.com/cefimec.unmsm/). Actual líder del proyecto abierto [Manos a la Data](https://github.com/manosaladata).
 
 <!--
 **arturochian/arturochian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
