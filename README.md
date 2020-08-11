@@ -6,8 +6,8 @@ Hola soy Arturo Chian, peruano <img src="https://image.flaticon.com/icons/svg/20
 
 Cofundador de [Behavioral Economics & Data Sciente Team](http://besteamperu.org/) y [Circulo de Estudios Financieros y Mercado de Capitales](https://www.facebook.com/cefimec.unmsm/). Actual líder del proyecto abierto [Manos a la Data](https://github.com/manosaladata).
 
-   1. [linkedin](https://www.linkedin.com/in/arturo-benjamin-chian-nu%C3%B1ez-frm-ba73965b/)
-   2. [email](mailto:arturob.chian@gmail.com)
+   1. [Linkedin](https://www.linkedin.com/in/arturo-benjamin-chian-nu%C3%B1ez-frm-ba73965b/)
+   2. [Email](mailto:arturob.chian@gmail.com)
    
 :writing_hand: Actualmente estoy redactando algunos libros opensource. Próximamente verán más detalles por aquí ❤️.
 
